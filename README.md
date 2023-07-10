@@ -20,6 +20,5 @@ I used accessibility code to increase this page's web accessibility. I mostly us
 
 ### Github pages link:
 https://jerome-wilson-developer.github.io/email_promo-netflix-devil-next-door/
-https://jeromewilson7.github.io/promotional-emails-netflix-movies/
 ### Netlify link:
 https://netflix-devil-next-door.netlify.com/
